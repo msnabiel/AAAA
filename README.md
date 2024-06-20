@@ -1,15 +1,3 @@
-### GitHub Repository Description
-
----
-
-**AuthPage-React**: A sleek sign-in and sign-up UI built with JavaScript, featuring easy background customization. Set the background to transparent to view updates; it's currently black.
-
----
-
-### README File for **AuthPage-React**
-
----
-
 # AuthPage-React
 
 **AuthPage-React** is a dynamic user interface for sign-in and sign-up pages, crafted using JavaScript. It allows for easy customization of the background, offering flexibility to fit various design needs.
